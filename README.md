@@ -9,12 +9,21 @@
 - 🔭 I’m currently working on an api framework with embedded databases
 - 🌱 I’m currently learning .NET and Rust
 - 📌 feel free to check out my public repos to see what i've been working on
-- 🎮 Playing 🗺 Paradox Games, 💍 Elden Ring and ⛏ Minecraft
+- 🎮 Playing 🗺 Paradox Games, 🏭 Satisfactory and ⛏ Minecraft
 - 📫 Reach me at [lmann.8602@gmail.com](mailto:lmann.8602@gmail.com)
 <!-- - 💫 check out my portfolio at [lewismann.com](https://lewismann.com) -->
 
 ## Languages and Frameworks
 
+<<<<<<< HEAD
+## Languages
+
+
+
+## Tools
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine)
+=======
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -76,3 +85,5 @@
 <!--![Discord](https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white) -->
 
 
+
+>>>>>>> c505efa7ef63ff1226d6ef42cfe55fed4c760b98
